@@ -1,0 +1,5 @@
+Olá Arquivo 'saida.txt'.
+Olá Arquivo 'saida.txt'.
+Olá Arquivo 'saida.txt'.
+Olá Arquivo 'saida.txt'.
+Olá Arquivo 'saida.txt'.

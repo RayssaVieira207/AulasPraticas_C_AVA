@@ -1,0 +1,2 @@
+Inicio do arquivo.
+Valor de número: 507
